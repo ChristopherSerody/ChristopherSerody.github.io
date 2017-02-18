@@ -150,7 +150,8 @@ textarea {
 
 .contact-form {
   font-size: 20px;
-  display: inline-block;
+  display: block;
+  float: left;
 }
 
 .submit-button {
