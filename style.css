@@ -139,6 +139,7 @@ textarea {
   border-bottom: 5px solid black;
   font-family: "FontAwesome";
   text-transform: uppercase;
+  text-align: center;
 }
 
 .write-me {
