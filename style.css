@@ -87,7 +87,6 @@ textarea {
   width: auto;
   height: 1500px;
   font-family: "FontAwesome";
-  text-align: center;
   text-transform: uppercase;
   border-left: 20px solid black;
   border-right: 20px solid black;
@@ -98,8 +97,7 @@ textarea {
 }
 
 .p-header h2 {
-  position: relative;
-  left: 500px;  
+  position: relative; 
 }
 
 .image {
