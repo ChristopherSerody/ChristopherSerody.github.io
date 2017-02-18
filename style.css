@@ -151,7 +151,6 @@ textarea {
 .contact-form {
   font-size: 20px;
   display: inline-block;
-  float: left;
   width: 180px;
 }
 
@@ -160,7 +159,7 @@ textarea {
 }
 
 .social {
-  width: 100%;
+  width: auto;
   height: 300px;
   border-left: 20px solid black;
   border-right: 20px solid black;
