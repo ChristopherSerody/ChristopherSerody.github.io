@@ -120,6 +120,7 @@ textarea {
 .write-me {
   float: right;
   text-align: left;
+  padding-right: 500px;
 }
 
 .contact-form {
