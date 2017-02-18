@@ -121,6 +121,7 @@ textarea {
 
 .contact {
   background-color: #d3d3d3;
+  text-align: center;
   padding: 20px 50px 20px 50px;
   margin: auto;
   width: auto;
@@ -133,24 +134,20 @@ textarea {
   border-bottom: 5px solid black;
   font-family: "FontAwesome";
   text-transform: uppercase;
-  text-align: center;
-}
-
-.contact-me {
-  text-align: left;
 }
 
 .write-me {
   float: right;
   text-align: left;
-  padding-right: 100px;
 }
 
 .contact-form {
   font-size: 20px;
-  display: inline-block;
-  float: left;
-
+  display: block;
+  padding: 4px 5px;
+  width: auto;
+  margin: 2px 0 20px 10px;
+  align: left;
 }
 
 .submit-button {
@@ -175,7 +172,6 @@ textarea {
 .social-links {
   float: right;
   display: inline-block;
-  margin: 120px;
 }
 
 .social-button {
