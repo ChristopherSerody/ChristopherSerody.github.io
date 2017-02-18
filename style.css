@@ -35,7 +35,7 @@ textarea {
 }
 
 .container {
-
+  width: auto;
   height: 500px;
   border-left: 20px solid black;
   border-right: 20px solid black;
@@ -85,7 +85,7 @@ textarea {
   background-color: #d3d3d3;
   padding: 20px 50px 20px 50px;
   margin: auto;
-
+  width: auto;
   height: 1500px;
   font-family: "FontAwesome";
   text-transform: uppercase;
@@ -125,7 +125,7 @@ textarea {
   text-align: center;
   padding: 20px 50px 20px 50px;
   margin: auto;
-
+  width: auto;
   height: 750px;
   border-left: 20px solid black;
   border-right: 20px solid black;
@@ -155,7 +155,7 @@ textarea {
 }
 
 .social {
-
+  width: auto;
   height: 300px;
   border-left: 20px solid black;
   border-right: 20px solid black;
