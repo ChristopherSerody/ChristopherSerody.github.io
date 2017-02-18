@@ -137,18 +137,16 @@ textarea {
 }
 
 .write-me {
-  float: left;
+  float: right;
   text-align: left;
-  display: block;
 }
 
 .contact-form {
   font-size: 20px;
-  display: block;
+  display: inline-block;
   padding: 4px 5px;
   width: auto;
   margin: 2px 0 20px 10px;
-  float: left;
 }
 
 .submit-button {
