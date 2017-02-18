@@ -167,7 +167,6 @@ textarea {
   padding:50px;
   background-color: #b0c4de;
   font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
-  display: inline-block;
 }
 
 .self-link {
@@ -176,6 +175,7 @@ textarea {
 
 .social-links {
   display: inline-block;
+  margin: auto;
 }
 
 .social-button {
