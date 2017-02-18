@@ -7,10 +7,6 @@ h4 {
   font-size: 20px;
 }
 
-body {
- 
-}
-
 #fixedbar {
   height: 80px;
   width: 100%;
@@ -198,4 +194,9 @@ small {
 
 a {
   color: black;
+}
+
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
 }
