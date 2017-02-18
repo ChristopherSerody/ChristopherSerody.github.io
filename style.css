@@ -151,7 +151,9 @@ textarea {
 .contact-form {
   font-size: 20px;
   display: block;
-  float: left;
+  padding: 4px 5px;
+  width: 200px;
+  margin: 2px 0 20px 10px;
 }
 
 .submit-button {
@@ -175,7 +177,6 @@ textarea {
 
 .social-links {
   float: right;
-  margin: 0;
 }
 
 .social-button {
