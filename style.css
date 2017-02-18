@@ -137,8 +137,9 @@ textarea {
 }
 
 .write-me {
-  float: right;
+  float: left;
   text-align: left;
+  display: block;
 }
 
 .contact-form {
