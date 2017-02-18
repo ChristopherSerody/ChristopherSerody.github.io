@@ -7,6 +7,10 @@ h4 {
   font-size: 20px;
 }
 
+body {
+  width: 100%;
+}
+
 #fixedbar {
   height: 80px;
   width: 100%;
@@ -18,6 +22,7 @@ h4 {
   font-weight: 900;
   font-size: 20px;
   display: inline-block;
+  float: right;
   padding-right: 40px;
   padding-top: 25px;
 }
@@ -29,11 +34,12 @@ textarea {
 .contents {
   display: inline-block;
   font-size: 30px;
+  float: right;
   padding-right: 40px;
 }
 
 .container {
-  width: auto;
+  width: 100%;
   height: 500px;
   border-left: 20px solid black;
   border-right: 20px solid black;
@@ -54,6 +60,7 @@ textarea {
 }
 
 .col-1-2 {
+  width: 50%;
   display: inline-block;
   vertical-align: top;
 }
@@ -82,7 +89,7 @@ textarea {
   background-color: #d3d3d3;
   padding: 20px 50px 20px 50px;
   margin: auto;
-  width: auto;
+  width: 100%;
   height: 1500px;
   font-family: "FontAwesome";
   text-transform: uppercase;
@@ -119,8 +126,10 @@ textarea {
 
 .contact {
   background-color: #d3d3d3;
+  text-align: center;
   padding: 20px 50px 20px 50px;
   margin: auto;
+  width: 100%;
   height: 750px;
   border-left: 20px solid black;
   border-right: 20px solid black;
@@ -135,15 +144,14 @@ textarea {
 .write-me {
   float: right;
   text-align: left;
+  padding-right: 100px;
 }
 
 .contact-form {
   font-size: 20px;
-  display: block;
+  display: inline-block;
   float: left;
-  padding: 4px 5px;
-  width: auto;
-  margin: 2px 0 20px 10px;
+  width: 180px;
 }
 
 .submit-button {
@@ -151,10 +159,11 @@ textarea {
 }
 
 .social {
-  width: auto;
+  width: 100%;
   height: 300px;
   border-left: 20px solid black;
   border-right: 20px solid black;
+  margin:0 auto;
   padding:50px;
   background-color: #b0c4de;
   font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -167,6 +176,7 @@ textarea {
 .social-links {
   float: right;
   display: inline-block;
+  margin: 120px;
 }
 
 .social-button {
@@ -188,9 +198,4 @@ small {
 
 a {
   color: black;
-}
-
-html, body {
-  max-width: 100% !important;
-  overflow-x: hidden !important;
 }
