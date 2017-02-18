@@ -97,7 +97,8 @@ textarea {
 }
 
 .p-header h2 {
-  position: relative; 
+  position: relative;
+  left: 50%;  
 }
 
 .image {
