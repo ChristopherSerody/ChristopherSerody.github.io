@@ -171,6 +171,7 @@ textarea {
 .social-links {
   float: right;
   display: inline-block;
+  margin: 120px;
 }
 
 .social-button {
