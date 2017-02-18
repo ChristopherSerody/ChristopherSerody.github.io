@@ -151,7 +151,7 @@ textarea {
 }
 
 .social {
-  width: auto;
+  width: auto !important;
   height: 300px;
   border-left: 20px solid black;
   border-right: 20px solid black;
