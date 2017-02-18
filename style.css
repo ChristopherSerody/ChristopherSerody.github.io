@@ -151,11 +151,10 @@ textarea {
 }
 
 .social {
-  width: auto !important;
+  width: auto;
   height: 300px;
   border-left: 20px solid black;
   border-right: 20px solid black;
-  margin:0 auto;
   padding:50px;
   background-color: #b0c4de;
   font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
