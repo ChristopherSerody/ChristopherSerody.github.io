@@ -121,7 +121,6 @@ textarea {
 
 .contact {
   background-color: #d3d3d3;
-  text-align: center;
   padding: 20px 50px 20px 50px;
   margin: auto;
   width: auto;
@@ -143,7 +142,8 @@ textarea {
 
 .contact-form {
   font-size: 20px;
-  display: inline-block;
+  display: block;
+  float: left;
   padding: 4px 5px;
   width: auto;
   margin: 2px 0 20px 10px;
