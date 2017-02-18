@@ -107,6 +107,7 @@ textarea {
   height: 750px;
   border-left: 20px solid black;
   border-right: 20px solid black;
+  width: auto;
 }
 
 .contact-header {
@@ -120,7 +121,6 @@ textarea {
 .write-me {
   float: right;
   text-align: left;
-  padding-right: 500px;
 }
 
 .contact-form {
