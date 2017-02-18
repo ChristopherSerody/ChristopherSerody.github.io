@@ -22,7 +22,6 @@ body {
   font-weight: 900;
   font-size: 20px;
   display: inline-block;
-  float: right;
   padding-right: 40px;
   padding-top: 25px;
 }
@@ -34,7 +33,6 @@ textarea {
 .contents {
   display: inline-block;
   font-size: 30px;
-  float: right;
   padding-right: 40px;
 }
 
@@ -141,13 +139,14 @@ textarea {
   float: right;
   text-align: left;
   padding-right: 100px;
+  width: auto;
 }
 
 .contact-form {
   font-size: 20px;
   display: block;
   padding: 4px 5px;
-  width: 100%;
+  width: auto;
   margin: auto;
 }
 
@@ -156,7 +155,7 @@ textarea {
 }
 
 .social {
-  width: 100%;
+  width: auto;
   height: 300px;
   border-left: 20px solid black;
   border-right: 20px solid black;
