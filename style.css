@@ -54,7 +54,6 @@ textarea {
 }
 
 .col-1-2 {
-  width: 50%;
   display: inline-block;
   vertical-align: top;
 }
@@ -142,6 +141,8 @@ textarea {
   font-size: 20px;
   display: block;
   float: left;
+  padding: 4px 5px;
+  width: auto;
   margin: 2px 0 20px 10px;
 }
 
