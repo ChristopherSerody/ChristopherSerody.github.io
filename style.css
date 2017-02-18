@@ -174,7 +174,9 @@ textarea {
 }
 
 .social-links {
-  display: inline-block;
+  display: block;
+  float: right;
+  margin: auto;
 }
 
 .social-button {
