@@ -126,6 +126,7 @@ textarea {
 
 .contact {
   background-color: #d3d3d3;
+  text-align: center;
   padding: 20px 50px 20px 50px;
   margin: auto;
   width: 100%;
@@ -149,9 +150,7 @@ textarea {
 
 .contact-form {
   font-size: 20px;
-  display: block;
-  width: auto;
-  float: left;
+  display: inline-block;
 }
 
 .submit-button {
@@ -174,9 +173,8 @@ textarea {
 }
 
 .social-links {
-  display: block;
   float: right;
-  margin: auto;
+  margin: 0;
 }
 
 .social-button {
