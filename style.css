@@ -146,7 +146,8 @@ textarea {
   background-color: #b0c4de;
   font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
   width: auto;
-  display: block;
+  display: inline-block;
+  vertical-align: top;
 }
 
 .self-link {
@@ -176,6 +177,7 @@ footer {
 small {
   font-size: 18px;
   color: white;
+  text-align: center;
 }
 
 a {
