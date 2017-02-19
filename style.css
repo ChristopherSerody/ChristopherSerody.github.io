@@ -141,6 +141,8 @@ textarea {
   height: 300px;
   border-left: 20px solid black;
   border-right: 20px solid black;
+  padding-left: 50px;
+  padding-right: 50px;
   background-color: #b0c4de;
   font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
   display: block;
