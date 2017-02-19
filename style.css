@@ -142,12 +142,11 @@ textarea {
   margin-top: 0;
   border-left: 20px solid black;
   border-right: 20px solid black;
-  padding-right: 50px;
   background-color: #b0c4de;
   font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
   width: auto;
-  display: inline-block;
-  vertical-align: top;
+  display: block;
+  margin: auto;
 }
 
 .self-link {
@@ -158,7 +157,7 @@ textarea {
 
 .social-links {
   float: right;
-  padding-right: 50px;
+  margin: auto;
 }
 
 .social-button {
