@@ -152,6 +152,7 @@ textarea {
 .self-link {
   float: left;
   padding-left: 50px;
+  margin-right: 0;
 }
 
 .social-links {
