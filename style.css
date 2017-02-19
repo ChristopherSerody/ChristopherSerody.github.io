@@ -121,7 +121,6 @@ textarea {
 .write-me {
   float: right;
   text-align: left;
-  padding-right: 50px;
 }
 
 .contact-form {
@@ -142,17 +141,11 @@ textarea {
   height: 300px;
   border-left: 20px solid black;
   border-right: 20px solid black;
+  padding-right: 50px;
   background-color: #b0c4de;
   font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
   width: auto;
   display: block;
-}
-
-@media (max-width: 1000px) {
-  .social {
-    position: relative;
-    top: 50px;
-  }
 }
 
 .self-link {
