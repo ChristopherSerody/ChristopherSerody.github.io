@@ -141,7 +141,6 @@ textarea {
   height: 300px;
   border-left: 20px solid black;
   border-right: 20px solid black;
-  padding-left: 50px;
   padding-right: 50px;
   background-color: #b0c4de;
   font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -151,10 +150,12 @@ textarea {
 
 .self-link {
   float: left;
+  padding-left: 50px;
 }
 
 .social-links {
   float: right;
+  padding-right: 50px;
 }
 
 .social-button {
