@@ -170,12 +170,12 @@ footer {
   padding-top: 30px;
   background-color: blue;
   width: auto;
+  margin-top: 0;
 }
 
 small {
   font-size: 18px;
   color: white;
-  text-align: center;
 }
 
 a {
